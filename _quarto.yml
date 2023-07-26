@@ -6,6 +6,11 @@ book:
   title: "bookdemo"
   author: "Jane Doe"
   date: "today"
+  downloads: [pdf]
+  search: true
+  repo-url: https://github.com/agrogan1/bookdemo
+  repo-actions: [issue]
+  sharing: [twitter, facebook, linkedin]
   chapters:
     - index.qmd
     - intro.qmd
