@@ -16,7 +16,9 @@ book:
     - intro.qmd
     - summary.qmd
     - references.qmd
-
+  navbar:
+    background: primary
+    
 bibliography: references.bib
 
 format:
