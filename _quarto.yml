@@ -23,8 +23,7 @@ bibliography: references.bib
 
 format:
   html:
-    theme: sketchy
-    css: custom.css
+    theme: cosmo
 
   pdf:
     documentclass: scrreprt
