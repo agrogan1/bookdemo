@@ -1,8 +1,12 @@
 ---
 title: "Listing Example"
 listing:
+  type: table
   contents:
-    - "../Stata/two-page-stata/*.qmd"
+    - title: "Two Page Stata"
+      path: https://agrogan1.github.io/Stata/two-page-stata/TwoPageStata.pdf
+      description: "A Two Page Guide To Stata"
+      categories: [Stata]
 ---
     
     
