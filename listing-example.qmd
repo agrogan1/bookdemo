@@ -1,0 +1,8 @@
+---
+title: "Listing Example"
+listing:
+  contents:
+    - "../Stata/two-page-stata/*.qmd"
+---
+    
+    
